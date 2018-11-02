@@ -1,0 +1,67 @@
+Tales of Faultstone: The Relic - Live Walkthrough - kelci
+
+
+._________.              .__.__.           .__.
+|  .______|              |  |  |           |  |
+|  | Tales of            |  |  |           |  |
+|  |____._____. .__.  .__|  |  |_____.____.|  |_____._____. ._..___.   ._____.
+|  .____| ___  \|  |  |  |  |  .____/  .___|  .____/  ___  \| / __  \ /  ___  \
+|  |  |  /   \  |  |  |  |  |  |    |  |__.|  |   |  /   \  |  /  \  |  /___\  |
+|  |  |  |   |  |  |  |  |  |  |   _\___.  \  |   |  |   |  |  |  |  |  ______/
+|  |  |  \___/  |  \__/  |  |  \__/ |___|  |  \__/|  \___/  |  |  |  |  \_____.
+|__|   \______/_|\_____/_|__|\_____/\______/\_____/\_______/|__|  |__|\_______/
+
+                           ~~~~~~~~~~~~~~~~~~~~~~~~~~
+                              ~~                ~~
+                           ~~~~~   The  Relic   ~~~~~
+                              ~~                ~~
+                           ~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+                           Live Walkthrough  by kelci
+
+
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+
+/===================\
+| >INT Introduction |
+\===================/
+
+READ THIS FIRST! Honestly, really, read this, even though you don't want to, I
+promise. Otherwise you're probably going to be confused, which means I get a lot
+of annoyed emails, which is good for nobody.
+
+Now that I have your attention: Hello! I'm kelci, occasionally-noticed game FAQ
+author, and this is my live walkthrough of the early 2000s adventure game "Tales
+of Faultstone: The Relic".
+
+I hear you. "kelci", you're saying, "what the hell is a live walkthrough?" Well,
+my friends, this is a very official term, and definitely not something I just
+made up. Basically, if you're reading this now (November-ish, 2018), then you'll
+notice that the walkthrough isn't all here yet. I'm trying something new here: I
+will be writing this walkthrough as I play through the game.
+
+Don't worry, I've played this game before. I played Faultstone when I was in
+middle school, and while I've probably forgotten details, I won't be going into
+this unprepared. This will be a pleasant piece of nostalgia for me, and a chance
+for you to see a walkthrough in progress.
+
+If you're reading this further in the future, then you should still be able to
+access the history to see my writing progress. Hopefully, wherever you found
+this file also had a link for that.
+
+If you have any questions, AND YOU READ THIS INTRODUCTION, you can email me at
+kelci(at)videogames(dot)faq. Also feel free to tell me if this was helpful, or
+enjoyable, or you experienced great joy at my struggles. Whichever.
+
+
+{game summary will go here ~k}
+
+
+/========================\
+| >TOC Table of Contents |
+\========================/
+
+Before You Start
+ - INT Introduction
+ - TOC Table of Contents
